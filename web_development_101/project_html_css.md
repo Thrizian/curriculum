@@ -908,6 +908,7 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 * [Nick Hodson's solution](https://github.com/nikikinz/google-homepage) | [View in browser](https://nikikinz.github.io/google-homepage/)
 * [Boscardin's solution](https://boscardin.github.io/google-homepage/)
 * [Dan Sack's Solution (Easy)](https://github.com/DanPete/google_homepage) | [View in Browser](https://danpete.github.io/google_homepage/)
+* [Danny Oosthoek's Solution (Easy)](https://github.com/Thrizian/google-homepage) | [View in Browser](https://thrizian.github.io/google-homepage/)
 
 ## Additional Resources
 
